@@ -1,0 +1,7 @@
+
+
+#ignore generated ipynb checkpoints
+*-checkpoint.ipynb
+
+#ignore audio files
+*.wav
