@@ -5,3 +5,6 @@
 
 #ignore audio files
 *.wav
+
+#ignore test file
+temp.ipynb

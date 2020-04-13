@@ -1,5 +1,6 @@
-Place all *.wav files in this folder for processing
-Dataset available: https://drive.google.com/file/d/1vlVuVlNawYzTNVQMavbDB9tZvD1-dtfo/view?usp=sharing
+Place all *.wav files in this folder (unzip provided dataset here)
+
+Dataset available: 
 
 Anderson-serviceberry-selected: Most of the recordings have white noise, some of them are completely silent. 
 5E6BA3C8-5E6DD52C

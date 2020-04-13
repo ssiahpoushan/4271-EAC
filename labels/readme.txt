@@ -1,4 +1,6 @@
 Place all labels in this folder
+Labels generated qualitatively using Audacity
+
 Labels available: 
 
 Anderson-serviceberry-selected: Most of the recordings have white noise, some of them are completely silent. 
