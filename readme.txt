@@ -9,7 +9,7 @@ following format:
 
 For example:
 
-1100 1599
+11000 15999
 
 This denotes a birdlike sound beginning at 11.41 seconds and terminating at
 15.99 seconds.
